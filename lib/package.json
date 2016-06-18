@@ -1,5 +1,6 @@
 {
-  "name": "opti",
+  "author":"Saif ghachem",
+  "name": "Example of grunt tasks",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
